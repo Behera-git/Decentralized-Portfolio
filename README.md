@@ -73,7 +73,9 @@ We envision a future where every professional has a verifiable, portable, and pe
 
 ## Contract Address
 
-**Testnet Deployment**: `ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.decentralized-portfolio-contract`
+**Testnet Deployment**: `STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.decentralized-portfolio`
+![image](https://github.com/user-attachments/assets/6e07132f-b42b-46ee-99b5-fe1b383b8142)
+
 
 **Mainnet Deployment**: _Coming Soon_
 
